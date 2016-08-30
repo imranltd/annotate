@@ -1,0 +1,11 @@
+body{
+	background-color:#666;
+}
+
+.image{
+    &__size{
+        &--fullwidth{
+            width: 100%;
+        }
+    }
+}
